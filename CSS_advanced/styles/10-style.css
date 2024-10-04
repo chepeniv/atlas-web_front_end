@@ -57,8 +57,8 @@ a {
 .card-category {
 	color: var(--color-primary);
 }
+
 .section-header {
-	color: var(--color-primary);
 	text-align: var(--section-header-align);
 }
 
