@@ -32,6 +32,10 @@
 	--section-title-color: var(--color-black);
 }
 
+* {
+	box-sizing: border-box;
+}
+
 *::before {
 	box-sizing: border-box;
 }
