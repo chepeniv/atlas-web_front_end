@@ -59,7 +59,7 @@ a {
 }
 .section-header {
 	color: var(--color-primary);
-	align-content: var(--section-header-align);
+	text-align: var(--section-header-align);
 }
 
 .section-tagline {
