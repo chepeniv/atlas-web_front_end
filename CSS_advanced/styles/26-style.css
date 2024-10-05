@@ -282,7 +282,7 @@ ul.row {
 }
 
 .card-testimonial .card-quote cite {
-	border-radius: 50%;
-	width: 10rem;
-	height: 10rem;
+	display: block;
+	padding-top: 1rem;
+	color: var(--color-primary);
 }
