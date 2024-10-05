@@ -42,7 +42,7 @@
 	--nav-item-font-weight: var(--font-weight-bold);
 	--nav-item-font-size: var(--font-size-medium);
 	--nav-item-link-hover: var(--color-primary);
-	--nav-item-letter-spacin: 0.04em;
+	--nav-item-letter-spacing: 0.04em;
 	--nav-item-display: inline-block;
 	--nav-item-margin: 0 0 3rem;
 }
