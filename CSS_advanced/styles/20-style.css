@@ -206,7 +206,7 @@ ul.row {
 }
 
 .row::after {
-	content: "";
+	content: none;
 	display: table;
-	float: none;
+	clear: both;
 }
